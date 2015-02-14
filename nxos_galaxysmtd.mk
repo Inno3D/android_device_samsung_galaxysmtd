@@ -4,15 +4,10 @@ $(call inherit-product, device/samsung/galaxysmtd/full_galaxysmtd.mk)
 # Release name
 PRODUCT_RELEASE_NAME := GalaxyS
 
-# Inherit from our custom product configuration
-$(call inherit-product, vendor/omni/config/common.mk)
-
-# Inherit from our custom product configuration
-$(call inherit-product, vendor/omni/config/gsm.mk)
 
 ## Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := galaxysmtd
-PRODUCT_NAME := omni_galaxysmtd
+PRODUCT_NAME := nxos_galaxysmtd
 PRODUCT_BRAND := samsung
 PRODUCT_MODEL := GT-I9000
 
