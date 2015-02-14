@@ -1,24 +1,24 @@
 [
   {
-    "remote":       "omnirom",
+    "remote":       "nxos",
     "repository":   "android_device_samsung_galaxysmtd",
     "target_path":  "device/samsung/galaxysmtd",
     "revision":     "android-4.3"
   },
   {
-    "remote":       "omnirom",
+    "remote":       "nxos",
     "repository":   "android_device_samsung_aries-common",
     "target_path":  "device/samsung/aries-common",
     "revision":     "android-4.3"
   },
   {
-    "remote":       "omnirom",
+    "remote":       "nxos",
     "repository":   "android_kernel_samsung_aries",
     "target_path":  "kernel/samsung/aries",
     "revision":     "android-4.3"
   },
   {
-    "remote":       "omnirom",
+    "remote":       "nxos",
     "repository":   "android_hardware_samsung",
     "target_path":  "hardware/samsung",
     "revision":     "android-4.3"
